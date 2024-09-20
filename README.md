@@ -14,8 +14,8 @@
    about It and taught myself the skills I needed for my job. After gaining some work experience, I decided to pursue a Master of
    Information Technology at University Of Auckland to deepen my knowledge and career prospects. This journey led me to New Zealand
    and solidified my decision to pursue a career in this industry.
-
-  🐱‍🏍What makes you different from others：
+   
+-  🐱‍🏍What makes you different from others：
    I think what sets me apart is my ability to take initiative and get things done. For example, this semester, I had a team
     project for one of my courses, and I didn’t know anyone in the group. When we started our first assignment, everyone was
    a bit hesitant, and it was clear that things weren’t progressing. I realized I needed to step up, so I took the initiative
@@ -23,13 +23,13 @@
    on everyone’s assigned parts. We just finished our first project and got a pretty good grade, which I think really shows
    how important it is to take charge and communicate well.
 
-   😎How will you bring this to a role?
+-  😎How will you bring this to a role?
    I think I can bring the same kind of energy and teamwork to this role. Just like in my group project, I know when to step up
    and get things moving. I’m good at communicating and making sure everyone’s on the same page, which helps keep things on track.
    By staying organized and being proactive, I can help the team work together and hit our goals. I’m confident that I can use these
    skills to make a positive impact in this role.
-
-   🐱‍🐉Apart from work and studying things I love
+   
+-  🐱‍🐉Apart from work and studying things I love
    I spend about 15 minutes in the sun every day. The sunlight gives me positive energy to start my day. I really enjoy nature – it’s amazing! 
    And I love animals – they’re so cute! I used to be someone who didn’t like going outside, but since coming here, I’ve reconnected with nature 
    and gained so much energy from it. Besides that, I enjoy mindfulness meditation and I’m also learning to play the drums! If you’re interested 
