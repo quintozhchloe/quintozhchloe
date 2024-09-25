@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chloe Huang
+- 👋 Hi, I’m Chloe
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning Master of Information Technology at University Of Auckland 
 - 📫 How to reach me:
