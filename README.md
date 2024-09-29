@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Chloe
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning Master of Information Technology at University Of Auckland 
-- 📫 How to reach me:
--  Email:chloehuang.zq@gmail.com
+
 - ⚡ Fun fact:
 -  🚀Why I choose this career: 
    When I was in primary school, my aunt gave me a computer. and that’s when I had my first encounter with JavaScript.
