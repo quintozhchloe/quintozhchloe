@@ -8,7 +8,7 @@
    Back then, a popular social media in my country called Tencent QQ allowed everyone to have their own personal blog.
    I was curious about how to improve the appearance of my blog and discovered JavaScript plugins. That’s when I realized
    how fascinating IT could be. Although my bachelor's studies weren't in a technology-related field, I was deeply passionate
-   about IT and taught myself the skills I needed. After gaining some experience, I decided to pursue a Master of
+   about IT and taught myself the skills I needed.I decided to pursue a Master of
    Information Technology at University Of Auckland to deepen my knowledge and career prospects. This journey led me to New Zealand
    and solidified my decision to pursue a career in this industry.
    
@@ -26,7 +26,7 @@
    By staying organized and being proactive, I can help the team work together and hit our goals. I’m confident that I can use these
    skills to make a positive impact in this role.
    
--  🐱‍🐉Apart from work and studying things I love
+-  🐱‍🐉Apart from studying things I love:
    I spend about 15 minutes in the sun every day. The sunlight gives me positive energy to start my day. I really enjoy nature – it’s amazing! 
    And I love animals – they’re so cute! I used to be someone who didn’t like going outside, but since coming here, I’ve reconnected with nature 
    and gained so much energy from it. Besides that, I enjoy mindfulness meditation and I’m also learning to play the drums! If you’re interested 
