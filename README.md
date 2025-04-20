@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chloe
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning Master of Information Technology at University Of Auckland 
+My linkedln：https://www.linkedin.com/in/chloe-h-8a8827336/
 
 - ⚡ Fun fact:
 -  🚀Why I choose this career: 
